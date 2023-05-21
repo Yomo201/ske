@@ -1,0 +1,58 @@
+*{margin: 0px;
+padding: 0}
+.App {
+  text-align: center;
+  background-color: #5c7444;
+  height: 100px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.Alco {
+  font-size: 25px;
+  margin: 10px;
+  padding: 10px;
+}
+ 
+.Exotic {
+  font-size: 25px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.Cocktails {
+  font-size: 25px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.Home {
+
+}
+
+.aaa {
+  margin: 0;
+  padding: 0;
+  height: 2000px;
+  background-color: #a0ad8d;
+}
+
+
+.slider {
+  width: 500px;
+  height: 1000px;
+}
+
+.button {
+  height: 50px;
+  width: 100px;
+}
+
+.nav {
+display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+
